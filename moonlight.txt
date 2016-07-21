@@ -1,4 +1,8 @@
 Somewheeeere over the rainboooow...
+<<<<<<< HEAD
 THE FINAL COMMIT
+=======
+
+>>>>>>> 2fec762... Update moonlight.txt
 
 Lalalalalalalalala......
